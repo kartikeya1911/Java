@@ -7,7 +7,7 @@ public static void main(String[] args) {
     //String s=sc.next(); //print only first word
     String s=sc.nextLine(); // print complete sentence
     System.out.println(s);
-
+    sc.close();
 
 }    
 }
