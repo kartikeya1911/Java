@@ -7,7 +7,7 @@ public class AddBinary {
     int b=sc.nextInt();
 
 
-    ..... ...
+    ..... 
     }
 
     
